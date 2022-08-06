@@ -2,6 +2,6 @@
 
 
 
-<?php
-system("ls /");
+<?php 
+echo 123  
 ?>
